@@ -31,15 +31,12 @@
     font-size:28px;
     color:#007CC7;
 }
-.section #button1 {
+.link-button {
   background-color: #F1B24A;
-  height: 300px;
-  width: 300px;
+  text-decoration: none;
+  padding:15px;
   font-size: 35px;
-}
-.section #button1 a
-{
-    text-decoration: none;
+  border-radius: 6px;
 }
 #Tanvir-Sakil
 {
@@ -48,7 +45,7 @@
 }
 #My
 {
-    color:red;
+    color:tomato;
 }
 .half-width
 {
@@ -58,7 +55,7 @@
 }
 #Portfolio
 {
-    color:gray;
+    color:orange;
 }
 .heading-menu a 
 {
@@ -69,12 +66,12 @@
 }
 .section
 {
-    width: 30%;
+    width: 33%;
     float:left;
     padding-top: 20px;
     padding-left: 105px;
-    margin-left: 45px;
-    padding-bottom: 15px;
+    margin-left: 55px;
+    padding-bottom: 25px;
 }
 .section img
 {
@@ -131,6 +128,15 @@
   text-decoration: none;
   font-size: 10px;
   margin: 4px 2px;
+}
+.My-box1 .link-button1
+{
+    background-color: orange;
+    text-decoration: none;
+    padding:8px;
+    font-size: 20px;
+    display: inline;
+    border-radius: 6px;
 }
 .footer1 h3
 {
