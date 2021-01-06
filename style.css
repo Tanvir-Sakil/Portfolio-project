@@ -1,0 +1,137 @@
+
+.heading
+{
+    width: 40%;
+    float:left;
+    margin-top: 0px;
+    margin-left: 115px;
+}
+.heading-menu
+{
+    float: right;
+    margin-right: 30px;
+    margin-top: 45px;
+}
+.heading h1
+{
+    font-size: 55px;
+}
+.section h1
+{
+    font-size:35px;
+    color:#3C1874;
+}
+.section p
+{
+    font-size:22px;
+    color:#932432;
+}
+.section h3
+{
+    font-size:28px;
+    color:#007CC7;
+}
+.section #button1 {
+  background-color: #F1B24A;
+  height: 300px;
+  width: 300px;
+  font-size: 35px;
+}
+.section #button1 a
+{
+    text-decoration: none;
+}
+#Tanvir-Sakil
+{
+    font-size: 35px;
+    color:red;
+}
+#My
+{
+    color:red;
+}
+.half-width
+{
+    margin-left: 150px;
+    height: 265px;
+    clear:both;
+}
+#Portfolio
+{
+    color:gray;
+}
+.heading-menu a 
+{
+    font-size: 24px;
+    padding-top: 39px;
+    padding-left: 8px;
+    text-decoration: none;
+}
+.section
+{
+    width: 30%;
+    float:left;
+    padding-top: 20px;
+    padding-left: 105px;
+    margin-left: 45px;
+    padding-bottom: 15px;
+}
+.section img
+{
+    height: 350px;
+    width: 350px;
+}
+.experience-area
+{
+    margin-top: 25px;
+    height: 290px;
+    padding:15px;
+    background-color: #DCE1E3;
+    clear:both;
+}
+.second-section
+{
+    background-color: gray;
+    width:27%;
+    height: 198px;
+    float: left;
+    margin:15px;
+    padding:15px;
+    box-shadow: 10px 10px 5px gray;
+}
+.My-box1
+{
+    margin-top:30px;
+    margin-left:30%;
+    background-color: #9DC88D;
+    height:60px;
+    width: 450px;
+    clear:both;
+    border-radius: 15px 15px 15px 15px;
+}
+.My-box1 h1
+{
+    margin-top:-62px;
+    padding: 77px;
+    color:#DE354C;
+    display: inline-block;
+}
+.My-box1 .button {
+  background-color:  #F1B24A;
+  border: none;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 10px;
+  margin: 4px 2px;
+}
+.footer1 h3
+{
+    text-align: center;
+}
+.footer1 h1
+{
+    text-align: center;
+}
+
