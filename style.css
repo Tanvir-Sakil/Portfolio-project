@@ -1,10 +1,11 @@
 
 .heading
 {
-    width: 40%;
+    width: 30%;
     float:left;
     margin-top: 0px;
     margin-left: 115px;
+    border-radius: 5px;
 }
 .heading-menu
 {
@@ -69,8 +70,8 @@
     width: 33%;
     float:left;
     padding-top: 20px;
-    padding-left: 105px;
-    margin-left: 55px;
+    padding-left: 90px;
+    margin-left: 40px;
     padding-bottom: 25px;
 }
 .section img
@@ -78,13 +79,54 @@
     height: 350px;
     width: 350px;
 }
+.service-area
+{
+    margin-top: 30px;
+    height: 460px;
+    padding:15px;
+    background-color: #12232E;
+    clear:both;
+}
+.service-area h2
+{
+    font-size: 32px;
+    text-align: center;
+    color:white;
+}
+.second-section1 img
+{
+    margin-left: 20px;
+     height: 130px;
+     width: 280px;
+}
+.second-section1
+{
+    background-color: #3C1874;
+    width:27%;
+    height:298px;
+    float: left;
+    margin:15px;
+    padding:15px;
+    padding-left: 35px;
+    border-radius: 14px;
+}
+.second-section1 p
+{
+    color:white;
+    font-size: 25px;
+}
 .experience-area
 {
     margin-top: 25px;
-    height: 390px;
+    height: 470px;
     padding:15px;
     background-color: #DCE1E3;
     clear:both;
+}
+.experience-area h2
+{
+    font-size: 32px;
+    text-align: center;
 }
 .second-section img
 {
@@ -96,28 +138,39 @@
 {
     background-color: gray;
     width:27%;
-    height:298px;
+    height:323px;
     float: left;
     margin:15px;
     padding:15px;
+    padding-left: 35px;
     box-shadow: 10px 10px 5px gray;
+}
+.second-section p
+{
+    font-size:20px;
+    color:white;
 }
 .My-box1
 {
-    margin-top:30px;
-    margin-left:30%;
-    background-color: #9DC88D;
-    height:60px;
-    width: 450px;
+    margin-top:35px;
+    background-image: url("images/bg.png");
+    background-repeat: no-repeat;
+    background-size: 65%;
+    height: 230px;
+    width: 100%;
+    background-position: center;
     clear:both;
-    border-radius: 15px 15px 15px 15px;
+    
 }
-.My-box1 h1
+.My-box1 p
 {
-    margin-top:-62px;
-    padding: 77px;
+    margin-top:62px;
+    padding: 94px;
     color:#DE354C;
-    display: inline-block;
+    margin-left: 15%;
+    font-size: 36px;
+    color:white;
+
 }
 .My-box1 .link-button1
 {
@@ -125,8 +178,8 @@
     text-decoration: none;
     padding:8px;
     font-size: 20px;
-    display: inline;
     border-radius: 6px;
+    margin-left: 45%;
 }
 .footer1 h3
 {
@@ -135,5 +188,14 @@
 .footer1 h1
 {
     text-align: center;
+}
+.icon
+{
+    margin-left: 45%;
+}
+.icon img
+{
+    height: 40px;
+    padding:10px;
 }
 
